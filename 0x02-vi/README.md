@@ -1,0 +1,1 @@
+este archivo contiene los comandos necesarios para trabajar en vi
