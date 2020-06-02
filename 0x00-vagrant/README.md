@@ -1,0 +1,1 @@
+Este archivo contiene el resultado de teclaer en ssh del comando uname
