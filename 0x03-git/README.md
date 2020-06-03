@@ -1,1 +1,1 @@
-este directorio contiene comandos basicos para git
+# THIS DIRECTORY CONTAINS COMMAND BASIC FOR GIT
